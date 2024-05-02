@@ -1,0 +1,362 @@
+{
+  "mangas": [
+    {
+      "id": "1",
+      "titulo": "Return of the Mount Hua Sect",
+      "img": "/RMHS.jpg",
+      "alt": "imagem return of the mount hua sect",
+      "sinopse": "Sinopse Retorno da Seita Monte Hua Chung Myung, o 13º discípulo da seita Mount Hua, um dos três grandes espadachins, Plum Blossom Sword Saint, derrotou Chun Ma, que trouxe destruição e desordem ao mundo. Após a batalha, ele dá seu último suspiro no topo da montanha-sede da Seita Demônio Celestial. Ele renasce após 100 anos no corpo de uma criança. ……O que? A seita Monte Hua caiu? Que tipo de bobagem é essa!?",
+      "popular": 0,
+      "estrelasManga": 5
+    },
+    {
+      "id": "2",
+      "titulo": "The Greatest Estate Developer",
+      "img": "/TGED.png",
+      "alt": "imagem the greatest sstate developer",
+      "sinopse": "Quando o estudante de engenharia civil Suho Kim adormece lendo um romance de fantasia, ele acorda como um personagem do livro! Suho está agora no corpo de Lloyd Frontera, um nobre preguiçoso que adora beber e cuja família está endividada. Usando seu conhecimento de engenharia, Suho projeta invenções para evitar o futuro terrível que o espera. Com a ajuda de um hamster gigante, um cavaleiro e a magia do mundo, Suho conseguirá livrar sua nova família das dívidas e construir um futuro melhor?",
+      "popular": 0,
+      "estrelasManga": 1
+    },
+    {
+      "id": "3",
+      "titulo": "Omniscient reader`s Viewpoint",
+      "img": "/ORV.png",
+      "alt": "imagem omniscient readers viewpoint",
+      "sinopse": "“Este é um desenvolvimento que eu conheço.” No momento em que ele pensou que o mundo havia sido destruído, um novo universo se desenvolveu. A nova vida de um leitor comum começa no mundo do romance, um romance que só ele terminou.",
+      "popular": 0,
+      "estrelasManga": 4
+    },
+    {
+      "id": "4",
+      "titulo": "Swordmaster`s Youngest Son",
+      "img": "/SYS.png",
+      "alt": "imagem Swordmasters Youngest Son",
+      "sinopse": "Jin Runcandel era o filho mais novo de Runcandel, a família de espadachins mais prestigiada do país… E o maior fracasso da história de Runcandel. Ele, que foi expulso miseravelmente e teve um fim sem sentido, teve outra chance. “Como você deseja usar esse poder?” “Eu quero usar isso para mim.” Memórias de sua vida passada, talento avassalador e um contrato com Deus… Os preparativos para se tornar o maior estão completos.",
+      "popular": 0,
+      "estrelasManga": 1
+    }
+  ],
+  "capitulos": [
+    {
+      "id": "1",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 1,
+      "imgCapitulo": "./RMHS/RMHS-capitulo1.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo1-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "2",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 2,
+      "imgCapitulo": "./RMHS/RMHS-capitulo2.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo2-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "3",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 3,
+      "imgCapitulo": "./RMHS/RMHS-capitulo3.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo3-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "4",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 4,
+      "imgCapitulo": "./RMHS/RMHS-capitulo4.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo4-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "5",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 5,
+      "imgCapitulo": "./RMHS/RMHS-capitulo5.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo5-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "6",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 6,
+      "imgCapitulo": "./RMHS/RMHS-capitulo6.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo6-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "7",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 7,
+      "imgCapitulo": "./RMHS/RMHS-capitulo7.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo7-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "8",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 8,
+      "imgCapitulo": "./RMHS/RMHS-capitulo8.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo8-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "9",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 9,
+      "imgCapitulo": "./RMHS/RMHS-capitulo9.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo9-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "10",
+      "tituloCapitulo": "Return of the Mount Hua Sect",
+      "numeroCapitulo": 10,
+      "imgCapitulo": "./RMHS/RMHS-capitulo10.jpeg",
+      "imgCapituloBr": "./RMHS/RMHS-capitulo10-br.jpeg",
+      "mangaId": "1"
+    },
+    {
+      "id": "11",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 1,
+      "imgCapitulo": "./TGED/TGED-capitulo1.jpg",
+      "imgCapituloBr": "./TGED/TGED-capitulo1-br.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "12",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 2,
+      "imgCapitulo": "./TGED/TGED-capitulo2.jpg",
+      "imgCapituloBr": "./TGED/TGED-capitulo2-br.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "13",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 3,
+      "imgCapitulo": "./TGED/TGED-capitulo3.jpg",
+      "imgCapituloBr": "./TGED/TGED-capitulo3-br.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "14",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 4,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "15",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 5,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "16",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 6,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "17",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 7,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "18",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 8,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "19",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 9,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "20",
+      "tituloCapitulo": "The Greatest Estate Developer",
+      "numeroCapitulo": 10,
+      "imgCapitulo": "./TGED/imgCapituloTGED.jpg",
+      "imgCapituloBr": "./TGED/imgCapituloTGED.jpg",
+      "mangaId": "2"
+    },
+    {
+      "id": "21",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 1,
+      "imgCapitulo": "./ORV/ORV-capitulo1.jpg",
+      "imgCapituloBr": "./ORV/ORV-capitulo1-br.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "22",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 2,
+      "imgCapitulo": "./ORV/ORV-capitulo2.jpg",
+      "imgCapituloBr": "./ORV/ORV-capitulo2-br.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "23",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 3,
+      "imgCapitulo": "./ORV/ORV-capitulo3.jpg",
+      "imgCapituloBr": "./ORV/ORV-capitulo3-br.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "24",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 4,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "25",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 5,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "26",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 6,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "27",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 7,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "28",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 8,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "29",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 9,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "30",
+      "tituloCapitulo": "Omniscient Readers Viewpoint",
+      "numeroCapitulo": 10,
+      "imgCapitulo": "./ORV/imgCapituloORV.jpg",
+      "imgCapituloBr": "./ORV/imgCapituloORV.jpg",
+      "mangaId": "3"
+    },
+    {
+      "id": "31",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 1,
+      "imgCapitulo": "./SYS/SYS-capitulo1.jpg",
+      "imgCapituloBr": "./SYS/SYS-capitulo1-br.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "32",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 2,
+      "imgCapitulo": "./SYS/SYS-capitulo2.jpg",
+      "imgCapituloBr": "./SYS/SYS-capitulo2-br.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "33",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 3,
+      "imgCapitulo": "./SYS/SYS-capitulo3.jpg",
+      "imgCapituloBr": "./SYS/SYS-capitulo3-br.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "34",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 4,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "35",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 5,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "36",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 6,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "37",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 7,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "38",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 8,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "39",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 9,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    },
+    {
+      "id": "40",
+      "tituloCapitulo": "Swordmasters Youngest Son",
+      "numeroCapitulo": 100,
+      "imgCapitulo": "./SYS/imgCapitulosSYS.jpg",
+      "imgCapituloBr": "./SYS/imgCapitulosSYS.jpg",
+      "mangaId": "4"
+    }
+  ]
+}

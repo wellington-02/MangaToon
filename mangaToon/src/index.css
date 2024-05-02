@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+#root{
+  background-color: #16151d;
+
+}
+
+html {
+  background: #16151d;
+
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  background: transparent;
+  
+}
+
+a:hover {
+  opacity: 1;
+}

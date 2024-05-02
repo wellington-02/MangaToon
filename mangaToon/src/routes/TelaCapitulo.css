@@ -1,0 +1,53 @@
+.container-capitulo-manga {
+  display: block;
+  text-align: center;
+  padding-top: 40px;
+}
+.container-botoes-capitulo-manga {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.botoes-capitulo-manga {
+  flex: 0.3;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #913fe2;
+  color: #fff;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.botoes-capitulo-manga:hover {
+  background-color: #343434;
+  color: #fff;
+  outline: none;
+}
+
+#capitulo-manga-h2 {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+#img-capitulo-manga {
+  width: 50%;
+}
+
+.botoes-capitulo-manga:disabled {
+  background: transparent;
+  color: transparent;
+  cursor: default;
+}
+
+#container-imagem-capitulo {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+
+}

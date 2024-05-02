@@ -1,0 +1,26 @@
+.container-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem 1rem;
+  background-color: #9b51e0;
+}
+
+
+.botoes-menu {
+  padding: 10px 20px;
+
+  background-color: #fff;
+  color: black;
+  cursor: pointer;
+}
+
+
+#procurar-menu {
+  padding: 10px 200px;
+  border: 1px solid black;
+  border-radius: 1px; 
+  text-align: center;
+  background-color: #16151d;
+  color: #fff;
+}
