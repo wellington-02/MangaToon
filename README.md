@@ -6,4 +6,5 @@
 * npm i
 * npm run backend
 ### Abrir outro terminal
+* cd .\mangaToon\ 
 * npm run dev
